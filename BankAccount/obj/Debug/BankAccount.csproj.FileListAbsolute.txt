@@ -1,0 +1,12 @@
+E:\C#\ATM\BankAccount\bin\Debug\BankAccount.exe.config
+E:\C#\ATM\BankAccount\bin\Debug\BankAccount.exe
+E:\C#\ATM\BankAccount\bin\Debug\BankAccount.pdb
+E:\C#\ATM\BankAccount\obj\Debug\BankAccount.exe
+E:\C#\ATM\BankAccount\obj\Debug\BankAccount.pdb
+E:\C#\ATM\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
+E:\C#\北大\BankAccount\bin\Debug\BankAccount.exe.config
+E:\C#\北大\BankAccount\obj\Debug\BankAccount.exe
+E:\C#\北大\BankAccount\obj\Debug\BankAccount.pdb
+E:\C#\北大\BankAccount\bin\Debug\BankAccount.exe
+E:\C#\北大\BankAccount\bin\Debug\BankAccount.pdb
+E:\C#\北大\BankAccount\obj\Debug\BankAccount.csprojResolveAssemblyReference.cache
