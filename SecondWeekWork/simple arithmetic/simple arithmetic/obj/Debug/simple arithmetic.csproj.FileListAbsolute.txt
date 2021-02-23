@@ -1,0 +1,10 @@
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\bin\Debug\simple arithmetic.exe.config
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\bin\Debug\simple arithmetic.exe
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\bin\Debug\simple arithmetic.pdb
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple arithmetic.csprojResolveAssemblyReference.cache
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple_arithmetic.Form1.resources
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple_arithmetic.Properties.Resources.resources
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple arithmetic.csproj.GenerateResource.Cache
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple arithmetic.exe
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple arithmetic.pdb
+E:\C#\北大\SecondWeekWork\simple arithmetic\simple arithmetic\obj\Debug\simple_arithmetic.resetpassword.resources
